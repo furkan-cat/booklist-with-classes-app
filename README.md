@@ -21,7 +21,7 @@ It's a simple app which I built in pure Vanilla.js without using any library lik
 
 [Project-Demo](https://booklist-app-with-classes.netlify.app/)
 
-<img src="images/project.png" width="800">
+<img src="images/project.png" width="600">
 
 #### JavaScript Used
 
