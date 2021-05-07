@@ -19,6 +19,8 @@
 
 It's a simple app which I built in pure Vanilla.js without using any library like jQuery. I built this after learning Object-Oriented Programming in Js. I also implemented browser's LocalStorage API in my app.
 
+[Project-Demo](https://booklist-app-with-classes.netlify.app/)
+
 <img src="images/project.png" width="800">
 
 #### JavaScript Used
